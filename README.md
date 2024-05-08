@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://img.shields.io/badge/Gemini 1.5 PRO-API-blue?style=for-the-badge&logo=gemin" alt="Gemini 1.5 Pro API Badge">
   <h1>Gemini 1.5 Pro API 🤖 - Unofficial Reverse Engineering (Google AI Studio) 🚀</h1>
   <p>
     <a href="https://github.com/SreejanPersonal/Gemini-1.5-Pro-Google-AI-Studio-Reverse-Engineered-API/stargazers">
